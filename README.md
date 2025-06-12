@@ -33,7 +33,10 @@ This project walks through a simple business intelligence workflow:
 
 ---
 
+![Dashboard Preview](Coffee Byte Dashboard Preview.png)
+
+
 ## 👩‍💻 Created by
 
-**Tayhlor Pinto**  
+**Taylor Pinto**  
 [LinkedIn]https://www.linkedin.com/in/taylor-pinto-94723b232/) | [GitHub](https://github.com/taylorp5)
