@@ -33,7 +33,8 @@ This project walks through a simple business intelligence workflow:
 
 ---
 
-![Dashboard Preview](Coffee Byte Dashboard Preview.png)
+![Dashboard Preview](dashboard_preview.png)
+
 
 
 ## 👩‍💻 Created by
